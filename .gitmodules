@@ -1,0 +1,3 @@
+[submodule "deerDash"]
+	path = deerDash
+	url = https://github.com/LrWm3/jhipster-experiments-deerDash.git
